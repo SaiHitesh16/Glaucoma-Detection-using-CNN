@@ -5,7 +5,7 @@ Link: https://glaucoma-detector.streamlit.app
 A deep learning-based glaucoma detection method is being developed in this project.Convolutional neural networks (CNNs), which are trained using publically accessible datasets of fundus images of healthy and glaucomatous eyes, are used in this system to classify images.
 
 ## Details
-* Step 1:-In this project we have colleceted three publicly available datasets-ACRIMA,DRISTHI-GS,RIM-ONE.
+* Step 1:-In this project, we have collected three publicly available datasets namely ACRIMA,DRISTHI-GS amd RIM-ONE.
 * Step 2:-We have combined the three datasets to form a Combined dataset.
 * Step 3:-Data Augumentation is applied to Combined dataset in order to increase training data and boost the model's performance.
 * Step 4:-The combined dataset is split into training, testing, and validation data.
