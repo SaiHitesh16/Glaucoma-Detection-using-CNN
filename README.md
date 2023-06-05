@@ -10,7 +10,7 @@ A deep learning-based glaucoma detection method is being developed in this proje
 * Step 3:-Data Augumentation is applied to Combined dataset in order to increase training data and boost the model's performance.
 * Step 4:-The combined dataset is split into training, testing, and validation data.
 * Step 5:-A Keras CNN model was built and trained using training data.
-* Step 6:-The model was evaluated using test data and metrics including accuracy (98%) and precision , recall , and F1-score..We saved the model file(h5 format) for further usage.
+* Step 6:-The model was evaluated using test data and metrics including accuracy (98%) and precision , recall , and F1-score . For future use, we saved the model file in h5 format.
 * Step 7:-Then we built a simple streamlit app for hosting on web.
 
 ## Requirements
